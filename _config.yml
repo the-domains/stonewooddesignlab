@@ -1,6 +1,6 @@
 name: stonewooddesignlab
 favicon: null
-layout_spectrum: 0.42022
+layout_spectrum: 0.39909
 cta:
   domain: null
   bucket: null
@@ -20,8 +20,8 @@ color:
     - '#107d6d'
     - '#fefefe'
     - '#8ea8a5'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
