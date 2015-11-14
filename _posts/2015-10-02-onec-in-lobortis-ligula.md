@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad3fa439-d68a-4d24-ac24-60f6e3a4c9c7.jpg'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ac consectetur velit. Duis mollis ex eu lobortis aliquam. Pellentesque
-datePublished: '2015-11-14T18:25:13.109Z'
-dateModified: '2015-11-14T18:25:09.302Z'
+datePublished: '2015-11-14T18:35:03.481Z'
+dateModified: '2015-11-14T18:34:59.943Z'
 author: []
 title: onec in lobortis ligula
 tags:
